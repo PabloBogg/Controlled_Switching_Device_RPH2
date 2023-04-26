@@ -1,0 +1,4 @@
+pyinstaller --windowed --onefile --collect-all customtkinter --icon=.\icono.ico controlador.py
+
+LINK --> https://stackoverflow.com/questions/75872305/how-to-get-the-correct-path-to-a-json-file-from-the-customtkinter-module
+LINK --> https://www.youtube.com/watch?v=Vr9vl0qlggE
